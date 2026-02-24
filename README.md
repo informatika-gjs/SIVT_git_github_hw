@@ -1,2 +1,2 @@
-# SIVT_git_github_hw
-Repository for the version control systems homework.
+# DÚ: VERZOVACÍ SYSTÉMY: PRÁCE S GITEM A GITHUBEM
+
